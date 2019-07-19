@@ -1,2 +1,0 @@
-# Vue Tutorial: Methods 💪
-
